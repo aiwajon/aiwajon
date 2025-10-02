@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Men ibragimova oyshajon Inoyat qizi xonqa tumani 31-sonli umumiy o'rta ta'lim maktabi o'quvchisisman. Qiziqiwlarim: AYTI sohasiga qiziqaman va Al-Xorazmiy vorislari loyihasida qatnashib tahsil olmoqdaman. Kelajakda esa dasturchi bo'lmoqchiman.
 
 <!--
 **aiwajon/aiwajon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
