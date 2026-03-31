@@ -1,21 +1,11 @@
-
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:8A2BE2,100:000000&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=45FF00&animation=twinkling&fontAlignY=38"/>
 </p>
-
-
-
 
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
-
-
-
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -24,11 +14,9 @@
 </p>
 
 <!-- 🐍 Contribution Snake --> 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/ibragimova/ibragimova/output/snake.svg" alt="snake animation" />
 </p>
-
 
 ![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
 
@@ -36,81 +24,63 @@
 
 ![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
 
-
 ![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
 
-
-
-
-
-
-
-    
 <!-- Visitors and Friends -->              
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/ibragimov-owner?label=FRIENDS&color=yellow&style=flat-square" alt="Friends" /> 
+  <img src="https://img.shields.io/github/followers/ibragimova?label=FRIENDS&color=yellow&style=flat-square" alt="Friends" /> 
 </p>
-
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodeWithShahriar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ibragimova&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-       
-     
-        
- 
+
 <h2 align="center">🏆 Achievements</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibragimov-owner&theme=tokyonight&no-frame=true&column=8&margin-w=15&margin-h=15" alt="" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ibragimova&theme=tokyonight&no-frame=true&column=8&margin-w=15&margin-h=15" alt="" />
 </p>
-        
+
 ---
 
-
-   
 <h2 align="center">⚡ GitHub Stats </h2>
 <p align="center">
-  <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=ibragimov-owner&show_icons=true&theme=tokyonight&hide_border=true" alt="" />
-  <img height="160" style="margin: 0 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ibragimov-owner&theme=tokyonight&hide_border=true" alt="" />
-  <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibragimov-owner&layout=compact&theme=tokyonight&hide_border=true" alt="" />
+  <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=ibragimova&show_icons=true&theme=tokyonight&hide_border=true" alt="" />
+  <img height="160" style="margin: 0 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ibragimova&theme=tokyonight&hide_border=true" alt="" />
+  <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibragimova&layout=compact&theme=tokyonight&hide_border=true" alt="" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibragimov-owner&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibragimova&theme=tokyonight"/>
 </p>
 
---- 
+---
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibragimov-owner&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibragimova&theme=tokyonight"/>
 </p>
- 
+
 <h2 align="center">📊 Contribution Graph</h2>
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibragimov-owner&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibragimova&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
-     
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,,ai&perline=14" width="100%" />
 </p>
 
-<div align="center">
-
-
-
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
 ---
+
 
 
 <h2 align="center">   🌐 Connect with me </h2>
@@ -134,6 +104,7 @@
 
 
 
+</p>
 
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
@@ -142,25 +113,11 @@
 
 <img width="1011" height="136" alt="image" src="https://github.com/user-attachments/assets/fad24ce2-4040-47bd-9cb9-24fd9ef3df1b" />
 
-
 ![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
 
 ![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
-
-
-
 
 ---
 
 <!-- FOOTER WAVE -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=180&section=footer&text=Thank%20you%20for%20visiting!&fontSize=55&fontColor=ffffff&animation=wave)
-
-
-
-
-
-
-
-
-
-
