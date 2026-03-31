@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:007700,50:8A2BE2,100:007700&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=45FF00&animation=twinkling&fontAlignY=38"/>
 </p>
 
-<!--chiziqni kodi-->
-<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
-     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
-     alt="Rainbow Line">
-     
 <pre align="center">
 ██╗   ██████╗   ██████╗   █████╗   ██████╗    ██╗   ███╗   ███╗   ██████╗   ██╗   ██╗   █████╗
  ██║   ██╔══██╗  ██╔══██╗  ██╔══██╗  ██╔════╝  ██║   ████╗ ████║  ██╔═══██╗  ██║   ██║  ██╔══██╗
@@ -16,21 +11,24 @@
  ╚═╝   ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝   ╚═════╝  ╚═╝   ╚═╝     ╚═╝   ╚═════╝     ╚═══╝    ╚═╝  ╚═╝
 </pre>
 
-
-
-   
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Frontend+Developer;Python+Coder;Open+Source+Contributor;Creative+Designer" alt="Typing SVG" />
-  </a>
-</p>
+<img width="1011" height="136" alt="image" src="https://github.com/user-attachments/assets/fad24ce2-4040-47bd-9cb9-24fd9ef3df1b" />
 
 
+<!--chiziqni kodi-->
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
+      
+
+
+
+
+  
 
 ![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
 
