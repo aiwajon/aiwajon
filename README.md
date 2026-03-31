@@ -1,7 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:8A2BE2,100:000000&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=45FF00&animation=twinkling&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:007700,50:8A2BE2,100:007700&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=45FF00&animation=twinkling&fontAlignY=38"/>
 </p>
 
+<!--chiziqni kodi-->
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
+     
+<pre align="center">
+██╗   ██████╗   ██████╗   █████╗   ██████╗    ██╗   ███╗   ███╗   ██████╗   ██╗   ██╗   █████╗
+ ██║   ██╔══██╗  ██╔══██╗  ██╔══██╗  ██╔════╝  ██║   ████╗ ████║  ██╔═══██╗  ██║   ██║  ██╔══██╗
+ ██║   ██████╔╝  ██████╔╝  ███████║  ██║  ███╗ ██║   ██╔████╔██║  ██║   ██║  ██║   ██║  ███████║
+ ██║   ██╔══██╗  ██╔══██╗  ██╔══██║  ██║   ██║ ██║   ██║╚██╔╝██║  ██║   ██║  ╚██╗ ██╔╝  ██╔══██║
+ ██║   ██████║   ██║  ██║  ██║  ██║  ╚██████╔╝ ██║   ██║ ╚═╝ ██║  ╚██████╔╝   ╚████╔╝   ██║  ██║
+ ╚═╝   ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝   ╚═════╝  ╚═╝   ╚═╝     ╚═╝   ╚═════╝     ╚═══╝    ╚═╝  ╚═╝
+</pre>
+
+
+
+   
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
@@ -13,10 +30,7 @@
   </a>
 </p>
 
-<!-- 🐍 Contribution Snake --> 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ibragimova/ibragimova/output/snake.svg" alt="snake animation" />
-</p>
+
 
 ![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
 
@@ -72,7 +86,7 @@
      alt="Rainbow Line">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,,ai&perline=14" width="100%" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,vscode,ai&perline=14" width="100%" />
 </p>
 
 <!--chiziqni kodi-->
